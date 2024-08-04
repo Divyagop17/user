@@ -57,7 +57,7 @@ console.log(result1)
 
 //looping statements
 // print numbers from 1 to 10
-for (let i = 0; i<10; i++) {
+for (let i = 10; i<20; i++) {
     console.log(i+1);
     
 }
